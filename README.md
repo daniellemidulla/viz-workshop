@@ -305,3 +305,7 @@ Submit screenshots of your final pages (both p5.js & Raphaël), especially fun d
 ### Screenshot from Part 1 Step 6
 
 ![squares](/inclass_screenshots/mouse_color_squares.png)
+
+### Screenshot from Part 2
+
+![raphael workshop](/inclass_screenshots/raphael_workshop.png)
