@@ -290,3 +290,18 @@ Submit screenshots of your final pages (both p5.js & Raphaël), especially fun d
 * https://codepen.io/collection/DRzkdM/
 * http://dmitrybaranovskiy.github.io/raphael/
 * https://tympanus.net/codrops/2011/04/22/animated-skills-diagram/
+
+
+## Screenshots made from my work in-class on 4/20
+
+### Screenshot from Part 1 Step 4
+
+![black & white circles](/inclass_screenshots/b&w_circles.png)
+
+### Screenshot from Part 1 Step 5
+
+![randomly colored circles](/inclass_screenshots/random_color.png)
+
+### Screenshot from Part 1 Step 6
+
+![squares](/inclass_screenshots/mouse_color_squares.png)
